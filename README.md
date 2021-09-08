@@ -1,5 +1,3 @@
-<br>
-
 <h1 align="center">
   <img alt="GloboSP" title="GloboSP" src="https://github.com/caiquedevs/GloboSP/blob/main/github/logo.svg" width="220px" />
 </h1>
@@ -11,8 +9,6 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>
 </p>
-
-<br>
 
 <h2 align="center">
   <a href="https://globosp.netlify.app/">Demonstração online</a>
