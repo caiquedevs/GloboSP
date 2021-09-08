@@ -2,9 +2,9 @@
   <img alt="GloboSP" title="GloboSP" src="https://github.com/caiquedevs/GloboSP/blob/main/github/logo.svg" width="220px" />
 </h1>
 
-<h2>
+<strong align="center">
   <a href="https://globosp.netlify.app/">Demonstração online</a>
-</h2>
+</strong>
 
 <p align="center">
   <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="GloboSP" src="https://github.com/caiquedevs/GloboSP/blob/main/github/template.svg" width="100%">
+  <img alt="GloboSP" src="https://github.com/caiquedevs/GloboSP/blob/main/github/template.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
