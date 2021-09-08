@@ -56,16 +56,16 @@ Na sua linha de comando:
 $ git clone https://github.com/caiquedevs/GloboSP.git
 
 # Entre no repositório
-$ cd globosp/api
+$ cd GloboSP/api
 
 # Instalar dependências
-$ yarn install
+$ yarn ou npm install
 
-# Configura .env
+# Configure .env
 Crie um arquivo .env na raiz da api copie tudo de dentro da .env-example e cole em sua .env
 
 # Iniciar servidor
-$ yarn dev
+$ yarn dev ou npm rum dev
 
 # Em execução na porta 3333
 ```
@@ -77,13 +77,16 @@ $ yarn dev
 $ git clone https://github.com/caiquedevs/GloboSP.git
 
 # Entre no repositório
-$ cd globosp/web
+$ cd GloboSP/web
 
 # Instalar dependências
-$ yarn install
+$ yarn ou npm install
+
+# Configure .env
+Crie um arquivo .env na raiz do projeto copie tudo de dentro da .env-example e cole em sua .env
 
 # Iniciar
-$ yarn start
+$ yarn start ou npm run start
 
 # executando na porta 3000
 ```
