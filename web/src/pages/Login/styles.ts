@@ -11,28 +11,6 @@ const toBottom = keyframes`
   }
 `;
 
-const toRight = keyframes`
-  from {
-    opacity: 0;
-    transform: translate(-60px, 0px)
-  }
-  to {
-    opacity: 1;
-    transform: translate(0px, 0px)
-  }
-`;
-
-const toLeft = keyframes`
-  from {
-    opacity: 0;
-    transform: translate(60px, 0px)
-  }
-  to {
-    opacity: 1;
-    transform: translate(0px, 0px)
-  }
-`;
-
 const toTop = keyframes`
   from {
     opacity: 0;
