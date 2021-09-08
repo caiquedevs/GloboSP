@@ -5,12 +5,10 @@ import cors from "cors";
 import path from "path";
 import mongoose from "mongoose";
 
-mongoose.connect(
-  `mongodb+srv://${process.env.USER}:${process.env.PASSWORD}@cluster0.u1ash.mongodb.net/${process.env.BD}?retryWrites=true&w=majority`
-);
+dotenv.config();
+mongoose.connect(process.env.MONGO_URI);
 
 const app = express();
-dotenv.config();
 
 app.use(express.static("public"));
 
